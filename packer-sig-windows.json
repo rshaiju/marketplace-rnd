@@ -4,7 +4,7 @@
         "tenant_id": "{{env `AZURE_TENANT_ID`}}",
         "client_id": "{{env `AZURE_CLIENT_ID`}}",
         "client_secret": "{{env `AZURE_CLIENT_SECRET`}}",
-        "location": "eastus2",
+        "location": "eastus",
         "sig_gallery_resource_group": "",
         "sig_gallery_name": "",
         "sig_image_name": "",
